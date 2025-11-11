@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\OneDrive\\Documents\\fall2025\\Programing Techneics\\Phase 1 - Student Version\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA10A871-5060-4858-9CB5-CAE63E0A749B}|graphics_prj.vcxproj|C:\\Users\\lenovo\\OneDrive\\Documents\\fall2025\\Programing Techneics\\Phase 1 - Student Version\\GUI\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA10A871-5060-4858-9CB5-CAE63E0A749B}|graphics_prj.vcxproj|solutionrelative:GUI\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA10A871-5060-4858-9CB5-CAE63E0A749B}|graphics_prj.vcxproj|C:\\Users\\lenovo\\OneDrive\\Documents\\fall2025\\Programing Techneics\\Phase 1 - Student Version\\GUI\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA10A871-5060-4858-9CB5-CAE63E0A749B}|graphics_prj.vcxproj|solutionrelative:GUI\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA10A871-5060-4858-9CB5-CAE63E0A749B}|graphics_prj.vcxproj|C:\\Users\\lenovo\\OneDrive\\Documents\\fall2025\\Programing Techneics\\Phase 1 - Student Version\\GUI\\Output.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA10A871-5060-4858-9CB5-CAE63E0A749B}|graphics_prj.vcxproj|solutionrelative:GUI\\Output.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA10A871-5060-4858-9CB5-CAE63E0A749B}|graphics_prj.vcxproj|C:\\Users\\lenovo\\OneDrive\\Documents\\fall2025\\Programing Techneics\\Phase 1 - Student Version\\GUI\\Output.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA10A871-5060-4858-9CB5-CAE63E0A749B}|graphics_prj.vcxproj|solutionrelative:GUI\\Output.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA10A871-5060-4858-9CB5-CAE63E0A749B}|graphics_prj.vcxproj|C:\\Users\\lenovo\\OneDrive\\Documents\\fall2025\\Programing Techneics\\Phase 1 - Student Version\\TestCode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA10A871-5060-4858-9CB5-CAE63E0A749B}|graphics_prj.vcxproj|solutionrelative:TestCode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Output.cpp",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Documents\\fall2025\\Programing Techneics\\Phase 1 - Student Version\\GUI\\Output.cpp",
+              "RelativeDocumentMoniker": "GUI\\Output.cpp",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Documents\\fall2025\\Programing Techneics\\Phase 1 - Student Version\\GUI\\Output.cpp",
+              "RelativeToolTip": "GUI\\Output.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-11T21:34:45.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Output.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Documents\\fall2025\\Programing Techneics\\Phase 1 - Student Version\\GUI\\Output.h",
+              "RelativeDocumentMoniker": "GUI\\Output.h",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Documents\\fall2025\\Programing Techneics\\Phase 1 - Student Version\\GUI\\Output.h",
+              "RelativeToolTip": "GUI\\Output.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-11T21:29:40.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestCode.cpp",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Documents\\fall2025\\Programing Techneics\\Phase 1 - Student Version\\TestCode.cpp",
+              "RelativeDocumentMoniker": "TestCode.cpp",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Documents\\fall2025\\Programing Techneics\\Phase 1 - Student Version\\TestCode.cpp",
+              "RelativeToolTip": "TestCode.cpp",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAH8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-11T20:55:20.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Input.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Documents\\fall2025\\Programing Techneics\\Phase 1 - Student Version\\GUI\\Input.h",
+              "RelativeDocumentMoniker": "GUI\\Input.h",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Documents\\fall2025\\Programing Techneics\\Phase 1 - Student Version\\GUI\\Input.h",
+              "RelativeToolTip": "GUI\\Input.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-11T20:29:40.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Input.cpp",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Documents\\fall2025\\Programing Techneics\\Phase 1 - Student Version\\GUI\\Input.cpp",
+              "RelativeDocumentMoniker": "GUI\\Input.cpp",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Documents\\fall2025\\Programing Techneics\\Phase 1 - Student Version\\GUI\\Input.cpp",
+              "RelativeToolTip": "GUI\\Input.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-11T20:09:46.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

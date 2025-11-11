@@ -1,0 +1,6 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  TestCode.cpp
+  Output.cpp
+  Input.cpp
+  Generating Code...
+  graphics_prj.vcxproj -> C:\Users\lenovo\OneDrive\Documents\fall2025\Programing Techneics\Phase 1 - Student Version\Debug\graphics_prj.exe
